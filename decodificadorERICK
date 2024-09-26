@@ -1,0 +1,8 @@
+int main() {
+
+    int vezes, i, length, j, decimal, b;
+    char hexadecimal[101];
+    char dupla[3] = "00";
+
+    printf("Quantas mensagens voce quer decifrar?");
+    scanf("%d",&vezes);
